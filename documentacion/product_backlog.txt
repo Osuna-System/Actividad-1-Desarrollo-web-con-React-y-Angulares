@@ -1,0 +1,1 @@
+Product Backlog inicial: Lista de tareas principales del proyecto (diseño, desarrollo, pruebas, despliegue, etc.).

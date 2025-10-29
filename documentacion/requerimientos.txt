@@ -1,0 +1,1 @@
+Requerimientos del proyecto: Este documento describe los requerimientos funcionales y no funcionales del sitio web corporativo.
